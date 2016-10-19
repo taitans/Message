@@ -1,0 +1,14 @@
+﻿{
+  "version": "1.0.0-alpha05",
+  "authors": [ "Taitans" ],
+  "packOptions": { "owners": [ "ttgzs" ] },
+  "dependencies": {
+  },
+  "frameworks": {
+    "net451": {
+    }
+  },
+  "buildOptions": {
+    "xmlDoc": true
+  }
+}
